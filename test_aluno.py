@@ -3,10 +3,10 @@ from  models import Usuario
 from models import AvaliacaoFisica
 
 
-class test_usario(unittest.TestCase):
-    def test_usuario(self): # criando alunos para teste
-        self.usuario1 = Usuario('marcos','marcos@gmail.com')
-        self.usuario2 = Usuario('victor','victor@gmail.com')
+#class test_usario(unittest.TestCase):
+#    def test_usuario(self): # criando alunos para teste
+#        self.usuario1 = Usuario('marcos','marcos@gmail.com')
+#        self.usuario2 = Usuario('victor','victor@gmail.com')
 
 
 
